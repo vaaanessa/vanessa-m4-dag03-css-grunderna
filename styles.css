@@ -92,4 +92,6 @@ Boxmodellen för article:
 
 När jag ökade padding upptill till 32px i DevTools
 blev det mer luft ovanför bilden inuti kortet.
+
+Padding är luft inuti elementet och margin är avstånd utanför elementet.
 */
