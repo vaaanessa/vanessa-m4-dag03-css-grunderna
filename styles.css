@@ -1,13 +1,3 @@
-/* Dag 3: grunder och boxmodell. Följ README.md och design.md.
-   TODO 1: box-sizing (överst)
-   TODO 2: body
-   TODO 3: header och footer
-   TODO 4: nav ul (ta bort punkter)
-   TODO 5: article (kort)
-   TODO 6: main (centrerat, max-bredd)
-   TODO 7: .knapp
-*/
-
 /* Räknar in padding och kantlinjer i varje elements angivna bredd och höjd*/
 
 *,
@@ -60,4 +50,13 @@ nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.knapp {
+  display: inline-block;
+  background-color: #8c1010;
+  color: #ffffff;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
 }
