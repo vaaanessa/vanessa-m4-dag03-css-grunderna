@@ -8,12 +8,14 @@
    TODO 7: .knapp
 */
 
-* {
-  margin: 0;
-  padding: 0;
+/* Räknar in padding och kantlinjer i varje elements angivna bredd och höjd*/
+
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
-
 body {
-  background-color: #ffaf3f;
+  margin: 0;
+  background-color: #fffaf3;
 }
