@@ -26,6 +26,12 @@ header {
   padding: 16px 24px;
 }
 
+main {
+  max-width: 1100px;
+  margin: 0 auto; /* Sätter marginalerna ovanför och under till 0 och centrerar main-behållaren horisontellt.*/
+  padding: 24px;
+}
+
 article {
   background-color: #ffffff;
   border: 1px solid #e3d5c3;
