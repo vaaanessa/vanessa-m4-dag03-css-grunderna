@@ -19,3 +19,20 @@ body {
   margin: 0;
   background-color: #fffaf3;
 }
+
+header {
+  background-color: #5b3a29;
+  color: #ffffff;
+  padding: 16px 24px;
+}
+
+footer {
+  background-color: #2b1c14;
+  color: #ffffff;
+  padding: 16px 24px;
+}
+
+header a,
+footer a {
+  color: #ffffff;
+}
