@@ -7,3 +7,13 @@
    TODO 6: main (centrerat, max-bredd)
    TODO 7: .knapp
 */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffaf3f;
+}
